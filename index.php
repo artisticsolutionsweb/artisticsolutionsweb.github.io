@@ -189,7 +189,7 @@
                     <div class="team-member">
                         <img src="img/team/Pleyto.png" class="img-responsive img-circle" alt="Pleyto">
                         <h4>Justin Pleyto</h4>
-                        <p class="text-muted">Director of Innovations</p>
+                        <p class="text-muted">Chief Technical Officer</p>
                     </div>
                 </div>
                 <div class="col-lg-2">

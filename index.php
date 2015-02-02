@@ -187,7 +187,7 @@
                 </div>
                 <div class="col-lg-2">
                     <div class="team-member">
-                        <img src="img/team/Pleyto.png" class="img-responsive img-circle" alt="Pleyto">
+                        <img src="img/team/Pleyto3.png" class="img-responsive img-circle" alt="Pleyto">
                         <h4>Justin Pleyto</h4>
                         <p class="text-muted">Chief Technical Officer</p>
                     </div>

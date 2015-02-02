@@ -15,7 +15,7 @@
 
     <!-- Custom CSS -->
     <link href="css/agency.css" rel="stylesheet">
-<link rel="shortcut icon" href="img/logos/logo.png">
+<link rel="shortcut icon" href="img/logos/tablogo.png">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">

@@ -178,18 +178,19 @@
                         <p class="text-muted">Chief Executive Officer</p>
                     </div>
                 </div>
-                <div class="col-lg-2">
-                    <div class="team-member">
-                        <img src="img/team/Luis.png" class="img-responsive img-circle" alt="Luis">
-                        <h4>Luis de Jesus</h4>
-                        <p class="text-muted">Marketing Head</p>
-                    </div>
-                </div>
+
                 <div class="col-lg-2">
                     <div class="team-member">
                         <img src="img/team/Pleyto5.png" class="img-responsive img-circle" alt="Pleyto">
                         <h4>Justin Pleyto</h4>
                         <p class="text-muted">Chief Technical Officer</p>
+                    </div>
+                </div>
+                <div class="col-lg-2">
+                    <div class="team-member">
+                        <img src="img/team/Luis.png" class="img-responsive img-circle" alt="Luis">
+                        <h4>Luis de Jesus</h4>
+                        <p class="text-muted">Marketing Head</p>
                     </div>
                 </div>
                 <div class="col-lg-2">

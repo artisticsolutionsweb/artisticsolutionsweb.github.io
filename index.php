@@ -317,7 +317,7 @@
                             <!-- Project Details Go Here -->
                             <h2>Project Name</h2>
                             <p class="item-intro text-muted">A whole new meaning to great deals!</p>
-                            <img class="img-responsive" src="img/portfolio/taskscollage.png" alt="Tasks Collage">
+                            <!--img class="img-responsive" src="img/portfolio/taskscollage.png" alt="Tasks Collage"-->
                             <p style="color:black">Tasks is a reward-based application that provides consumers rewards for accomplished “tasks”. After every accomplished TASK, consumers are given rewards: discounts, exclusive promos, and/or freebies. Tasks also has a contest feature that allows companies to provide extra prizes from competition through the application!</p>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                         </div>

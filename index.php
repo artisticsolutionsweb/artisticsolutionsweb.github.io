@@ -137,7 +137,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/tasks.png" class="img-responsive" alt="tasks sample 1">
+                        <!-- img src="img/portfolio/tasks.png" class="img-responsive" alt="tasks sample 1" -->
                     </a>
                     <div class="portfolio-caption">
                         <h4>Tasks</h4>
